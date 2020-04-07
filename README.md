@@ -7,3 +7,5 @@ This is another edit when diff
 
 update for branching
 NOW FOR BRANCHING
+
+This is conflict update on master branch 2
